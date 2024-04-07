@@ -55,7 +55,11 @@ $appsToRemove = @(
     "Microsoft.ScreenSketch",
     "Microsoft.HEIFImageExtensions",
     "Microsoft.WebMediaExtensions",
-    "Microsoft.WebpImageExtensions"
+    "Microsoft.WebpImageExtensions",
+    "Microsoft.Office.Clipchamp",
+    "Microsoft.Windows.ParentalControls",
+    "Microsoft.ToDo",
+    "Microsoft.Office.Outlook"
 )
 
 foreach ($app in $appsToRemove) {
