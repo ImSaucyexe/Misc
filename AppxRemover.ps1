@@ -15,8 +15,7 @@ $appsToRemove = @(
     "Microsoft.People",
     "Microsoft.Print3D",
     "Microsoft.RemoteDesktop",
-    "Microsoft.SkypeApp",
-    "Microsoft.StorePurchaseApp",
+    "Microsoft.SkypeApp",11
     "Microsoft.Office.Todo.List",
     "Microsoft.Whiteboard",
     "Microsoft.WindowsAlarms",
@@ -47,7 +46,6 @@ $appsToRemove = @(
     "*Microsoft.Advertising.Xaml_10.1712.5.0_x86__8wekyb3d8bbwe*",
     "*Microsoft.BingWeather*",
     "*Microsoft.MicrosoftStickyNotes*",
-    "*Microsoft.WindowsCalculator*",
     "Microsoft.Pay",
     "Microsoft.MixedReality.Portal",
     "Microsoft.YourPhone",
