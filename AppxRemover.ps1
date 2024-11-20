@@ -39,7 +39,6 @@ $appsToRemove = @(
     "*Twitter*",
     "*Facebook*",
     "*Spotify*",
-    "*Minecraft*",
     "*Royal Revolt*",
     "*Sway*",
     "*Speed Test*",
