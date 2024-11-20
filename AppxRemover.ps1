@@ -24,8 +24,6 @@ $appsToRemove = @(
     "Microsoft.WindowsFeedbackHub",
     "Microsoft.WindowsMaps",
     "Microsoft.WindowsSoundRecorder",
-    "Microsoft.ZuneMusic",
-    "Microsoft.ZuneVideo",
     "*EclipseManager*",
     "*ActiproSoftwareLLC*",
     "*AdobeSystemsIncorporated.AdobePhotoshopExpress*",
