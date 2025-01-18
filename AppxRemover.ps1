@@ -15,8 +15,13 @@ $appsToRemove = @(
     "Microsoft.People",
     "Microsoft.Print3D",
     "Microsoft.RemoteDesktop",
-    "Microsoft.SkypeApp",11
-    "Microsoft.Office.Todo.List",
+    "Microsoft.SkypeApp",
+    "Microsoft.Teams",
+    "Microsoft.Clipchamp",
+    "Microsoft.Copilot",
+    "Microsoft.DevHome",
+    "Microsoft.ToDo",
+    "Microsoft.Paint3D"
     "Microsoft.Whiteboard",
     "Microsoft.WindowsAlarms",
     "Microsoft.WindowsCamera",
